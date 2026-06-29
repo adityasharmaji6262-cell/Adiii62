@@ -29,6 +29,11 @@
 ---
 ## 📊 My GitHub Insights
 
+### 📈 Weekly Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasharmaji6262-cell&theme=github-dark&area=true&category=commits" alt="Activity Graph" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharmaji6262-cell&theme=dark" alt="GitHub Streak" />
 </p>
