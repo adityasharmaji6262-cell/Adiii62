@@ -16,7 +16,7 @@
 <p align="center">
   <!-- Module 1: Project Clara -->
   <a href="https://github.com/adityasharmaji6262-cell/ClaraCompanion">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=ClaraCompanion&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false" height="120" alt="Project Clara Card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=ClaraCompanion&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false&cache_seconds=1800" height="120" alt="Project Clara Card" />  
   </a>
   
   <!-- Module 2: Student Result App -->
