@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 🎓 **Education:** Computer Science undergraduate student specializing in Artificial Intelligence (2023–2027).
-- 💡 **Interests:** Deeply interested in neural network architectures, Large Language Models (LLMs), agentic AI, and full-stack backend development.
+- 💡 **Interests:** Deeply interested in neural network architectures, Large Language Models (LLMs), agentic AI, and full-stack backend development and mastering Data Structures and Algorithms.
 - 🛠️ **Current Focus:** Sharpening my core software engineering fundamentals, practicing Data Structures & Algorithms daily, and building low-latency AI applications.
 
 ---
