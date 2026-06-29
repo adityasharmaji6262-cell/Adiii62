@@ -42,3 +42,8 @@
   <img src="https://github-stats-extended.vercel.app/api?username=adityasharmaji6262-cell&show_icons=true&theme=dark" height="180" alt="Aditya's GitHub stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityasharmaji6262-cell&layout=compact&theme=dark" height="180" alt="Top Langs" />
 </p>
+
+### 🐍 Contribution Arcade
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityasharmaji6262-cell/adityasharmaji6262-cell/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
