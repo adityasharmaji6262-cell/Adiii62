@@ -19,13 +19,13 @@
 | **Data Structures** | Active problem solver utilizing efficient algorithmic patterns |
 
 ---
-
 ## 📊 My GitHub Insights
-<p align="left">
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharmaji6262-cell&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=adityasharmaji6262-cell&show_icons=true&theme=dark" alt="Aditya's GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityasharmaji6262-cell&layout=compact&theme=dark" alt="Top Langs" />
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=adityasharmaji6262-cell&show_icons=true&theme=dark" height="180" alt="Aditya's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityasharmaji6262-cell&layout=compact&theme=dark" height="180" alt="Top Langs" />
 </p>
