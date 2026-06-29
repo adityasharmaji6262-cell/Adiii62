@@ -48,6 +48,7 @@
   </a>
 </p>
 ---
+
 ## 📊 My GitHub Insights
 
 ### 📈 Weekly Contribution Activity
