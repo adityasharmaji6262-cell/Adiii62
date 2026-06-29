@@ -47,7 +47,6 @@
     <img src="https://skillicons.dev/icons?i=supabase,docker,git,github,vscode" alt="Tools" />
   </a>
 </p>
----
 
 ## 📊 My GitHub Insights
 
