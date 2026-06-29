@@ -12,12 +12,20 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, JavaScript (ES6+) |
-| **Backend & Cloud** | Node.js, Supabase, Groq API Ecosystem |
-| **Data Structures** | Active problem solver utilizing efficient algorithmic patterns |
 
+### 💻 Languages & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,html,css" alt="My Skills" />
+  </a>
+</p>
+
+### ⚙️ Backend, AI & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,docker,git,github,vscode" alt="Tools" />
+  </a>
+</p>
 ---
 ## 📊 My GitHub Insights
 
