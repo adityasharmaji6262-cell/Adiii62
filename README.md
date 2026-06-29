@@ -16,19 +16,19 @@
 <p align="center">
   <!-- Module 1: Project Clara -->
   <a href="https://github.com/adityasharmaji6262-cell/ClaraCompanion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=ClaraCompanion&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false" height="120" alt="Project Clara Card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=ClaraCompanion&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false" height="120" alt="Project Clara Card" />
   </a>
   
   <!-- Module 2: Student Result App -->
   <a href="https://github.com/adityasharmaji6262-cell/Student_result-App_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=Student_result-App_project&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false" height="120" alt="Student Result App Card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=Student_result-App_project&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false" height="120" alt="Student Result App Card" />
   </a>
 </p>
 
 <p align="center">
   <!-- Module 3: Neetcode Submissions -->
   <a href="https://github.com/adityasharmaji6262-cell/neetcode-submissions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=neetcode-submissions&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false" height="120" alt="Neetcode Submissions Card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=neetcode-submissions&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false" height="120" alt="Neetcode Submissions Card" />
   </a>
 </p>
 
