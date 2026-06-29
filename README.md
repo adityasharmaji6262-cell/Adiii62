@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditya Sharma
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2ecc71&width=500&lines=AI+Enthusiast+%26+Developer;Daily+Code+Practitioner;Building+Project+Clara" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2ecc71&width=500&lines=AI+Enthusiast+and+Developer;Daily+Code+Practitioner;Building+Project+Clara" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
